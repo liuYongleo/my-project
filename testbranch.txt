@@ -1,5 +1,5 @@
 testb修改ranch
-mas再修改ter
+master
 addbranch
 新增一行
 又增一行
